@@ -1,0 +1,16 @@
+{false->.false
+Afalse->false
+>AA}->}
+>AB}->false
+{>A}->.true
+{}->.true
+
+
+*A->A*
+*->}
+
+>AB->B>A
+{A->{>A
+
+
+->{*
